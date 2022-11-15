@@ -46,6 +46,9 @@
     "@typescript-eslint/parser": "^5.42.0",
     "eslint": "^8.27.0",
     "eslint-config-google": "^0.14.0",
-    "eslint-plugin-react": "^7.31.10"
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.10",
+    "prettier": "^2.7.1"
   }
 }
